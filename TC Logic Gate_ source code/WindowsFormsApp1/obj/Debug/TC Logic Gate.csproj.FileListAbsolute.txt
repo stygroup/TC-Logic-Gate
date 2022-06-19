@@ -1,0 +1,114 @@
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\0521_LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0521 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0611 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0613 LOGIC GATE\LOGIC GATE _ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\TC_Logic_Gate.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC Logic Gate.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0615 LOGIC GATE\TC Logic Gate_ source code\WindowsFormsApp1\obj\Debug\TC_Logic_Gate.pdb

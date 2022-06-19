@@ -1,0 +1,303 @@
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\workspace\winform_demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\LogicGate\WindowsFormsApp1_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\WindowsFormsApp1_LOGIC GATE_2021_12_12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\LogicGate\LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0123_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0220_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\闲鱼开发\RGB_DATA\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0306_LOGIC GATE\0306_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\所有文件\个人文件夹\kaifa\LOGIC_GATE\0314_LOGIC GATE\0314_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0317_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0328_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\开发\已完成\RGB_DATA\0429_LOGIC GATE\0429_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\开发\已完成\RGB_DATA\0501_LOGIC GATE\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\EPPlus.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UPCONVERSION NANOPARTICLE\SOFWAREs\0501_LOGIC GATE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
